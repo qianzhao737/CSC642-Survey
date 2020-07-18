@@ -8,8 +8,8 @@ I have used mysql database to store data
 - for field validation
 I have used javascript for field validation.
 
--For maps
+- for maps
 I have used google maps API and google search API for maps
 
--For captcha
+- for captcha
 I have used google recaptcha v2
