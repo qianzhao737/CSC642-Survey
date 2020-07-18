@@ -1,6 +1,6 @@
 <?php 
 
-date_default_timezone_set("US/Pacific");
+date_default_timezone_set("America/Los_Angeles");
 session_start();
 
 
